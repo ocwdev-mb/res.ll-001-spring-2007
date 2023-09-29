@@ -1,0 +1,5 @@
+leftnav:
+- identifier: external-d4eb668b9bc04598ad0b916d7b439732
+  name: Online Publication
+  url: http://www.ll.mit.edu/workshops/education/videocourses/introradar/
+  weight: 1000
